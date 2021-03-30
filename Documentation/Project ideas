@@ -1,0 +1,30 @@
+Group Members:
+Nathan Williams
+Prasheeth Venkat Kumar
+Cameron Stanley
+Tim Williams
+
+Data Set - Esport Subreddit Comments from Kaggle
+https://www.kaggle.com/emstatsl/esport-subreddit-comments
+
+Description: A collection of the last 10,000 comments on E-Sport subreddits. Contains the attitude of the comment and the comments themselves.
+
+Potential Customers: Esports Organizations
+
+Problem that is solved: Data can be analyzed to determine public attitude towards different Esport games. This data can be used by ESport organizations to
+                        determine what games would be most profitable  to put their focus on and to determine where they should be spending money. If a game's
+                        popularity is declining, an ESports organization will be able to see this and pull out of that games ESports scene to save resources.
+                        
+Product Vision: For ESports Organizations who want to maximize profits and popularity in the ESports industry, the PRODUCT NAME is a website that keeps track of 
+                public popularity in various ESport games by analysing social media comments. AI is used to determine the attitude of the comment. From this, comments
+                are given a positive/negative rating and compiled in order to determine if the general feelings towards a game is positive or negative. Data will be
+                compiled into a clean and easy to understand UI that breaks down what games are trending. Unlike private company owned data analyzers, PRODUCT NAME 
+                will be available to any organization that would find it useful (even small organizations) instead of being private to one organization. It will be
+                useful because it will allow more teams to compete in games that viewers want to see. This will make the viewers happier and will provide more 
+                entertainment to them.   
+
+Major Features: - Number of mentions per game, per day is displayed
+                - Positivity rating is assigned to every game
+                - Shows history of both mentions and positivity rating
+                - A clean and easy to use UI
+                        
