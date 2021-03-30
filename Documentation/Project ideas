@@ -15,11 +15,11 @@ Problem that is solved: Data can be analyzed to determine public attitude toward
                         determine what games would be most profitable  to put their focus on and to determine where they should be spending money. If a game's
                         popularity is declining, an ESports organization will be able to see this and pull out of that games ESports scene to save resources.
                         
-Product Vision: For ESports Organizations who want to maximize profits and popularity in the ESports industry, the PRODUCT NAME is a website that keeps track of 
+Product Vision: For ESports Organizations who want to maximize profits and popularity in the ESports industry, the ESport Popularity Analyzer is a website that keeps track of 
                 public popularity in various ESport games by analysing social media comments. AI is used to determine the attitude of the comment. From this, comments
                 are given a positive/negative rating and compiled in order to determine if the general feelings towards a game is positive or negative. Data will be
-                compiled into a clean and easy to understand UI that breaks down what games are trending. Unlike private company owned data analyzers, PRODUCT NAME 
-                will be available to any organization that would find it useful (even small organizations) instead of being private to one organization. It will be
+                compiled into a clean and easy to understand UI that breaks down what games are trending. Unlike private company owned data analyzers, ESport Popularity
+                Analyzer will be available to any organization that would find it useful (even small organizations) instead of being private to one organization. It will be
                 useful because it will allow more teams to compete in games that viewers want to see. This will make the viewers happier and will provide more 
                 entertainment to them.   
 
