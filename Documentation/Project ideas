@@ -53,7 +53,25 @@ Major Features:
 - Provides impactful statistics
 - Intiviute UI
 
+Cameron:
+Dateset: Trending Netflix shows from Kaggle
 
+Description: A dataset that reflects various attributes of the most popular Netflix shows such as actors, genre, etc.  
+
+Customer: Viewers, TV Show Producers
+
+Problem solved the proposed project: Companies can see what trends are being followed In tv show entertainment and base their predictions off of those.  
+
+Product vision: 
+Movies and Tv Show Producers and their companies who are always looking to make the next big thing will use this web-based product to get quick informative feedback on how trends are being followed currently. 
+The data from these will be displayed in ways such as graphs and breakdown tables to show in small but informative bits the information needed on how TV shows will go.  This will be able to be used by anybody not just big companies. This means that anyone who just needs something to watch would also be able to view it as well. 
+
+How will this project be useful to society: This will help companies tailor their projects to the consumer and make better entertainment based on what the consumers want. 
+
+Major Features: 
+- Visualization of large amounts of data
+- Provides impactful statistics
+- Intuitive UI
 
 
 
